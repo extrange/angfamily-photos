@@ -1,6 +1,6 @@
 networks:
   default:
-    name: web-app-backend_default
+    name: server-core_default
     external: true
 
 services:
